@@ -10,6 +10,7 @@
 ?>
   
 
+<<<<<<< HEAD
 div class="modal fade" id="myModal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 		  <div class="modal-content">
@@ -45,3 +46,5 @@ div class="modal fade" id="myModal" role="dialog" aria-labelledby="myModalLabel"
 		  </div>
 		</div>
 	  </div>
+=======
+>>>>>>> 8d8865a5fa99c814b61d6409af3005f6dfd6e537
