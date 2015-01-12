@@ -6,8 +6,11 @@
     * License: GPLv2 or later
     * @version 0.1
     */
+
 ?>
-    <div class="modal fade" id="myModal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  
+
+div class="modal fade" id="myModal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 		  <div class="modal-content">
 		    <div class="modal-header">
