@@ -9,9 +9,7 @@
 
 ?>
   
-
-<<<<<<< HEAD
-div class="modal fade" id="myModal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal fade" id="myModal" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
 		<div class="modal-dialog">
 		  <div class="modal-content">
 		    <div class="modal-header">
@@ -22,7 +20,7 @@ div class="modal fade" id="myModal" role="dialog" aria-labelledby="myModalLabel"
 		      <div id="myWatch"></div>
 		      <form enctype="application/x-www-form-urlencoded" class="form-horizontal" action="javascript:void(0);" role="form" method="post" name="form1" id="form1" onsubmit="return GetUser(); return document.MM_returnValue">
 		        <div class="form-group">
-		          <label for="inputEmail" class="col-sm-2 control-label">Tu eMail</label>
+		          <label for="inputEmail">Tu eMail</label>
 		          <div class="col-sm-10">
 		            <input type="email" class="form-control" id="inputEmail" name="inputEmail" placeholder="eMail">
 		          </div>
@@ -45,6 +43,4 @@ div class="modal fade" id="myModal" role="dialog" aria-labelledby="myModalLabel"
 		    </div>
 		  </div>
 		</div>
-	  </div>
-=======
->>>>>>> 8d8865a5fa99c814b61d6409af3005f6dfd6e537
+	  </div
