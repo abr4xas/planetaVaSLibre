@@ -7,6 +7,7 @@
     * @version 0.1
     */
 echo'<div id="header">
+
 		<nav class="navbar navbar-inverse navbar-fixed-top barra_nav" role="navigation">
 		    <div class="container">
 		        <div class="navbar-header">

@@ -7,7 +7,8 @@
     * @version 0.1
     */
 echo'<div class="row">
-        <div class="col-md-12">
+      
+  <div class="col-md-12">
           <h1 class="text-primary text-center">'.$nombre_sitio.'</h1>
         </div>
         <div class="col-md-8"> ';
@@ -56,7 +57,7 @@ echo '
 			  <form enctype="application/x-www-form-urlencoded" class="form-horizontal" action="javascript:void(0);" role="form" method="post" name="form2" id="form2" onsubmit="return GetUserContac(); return document.MM_returnValue">
 				<div class="form-group">
 				   <label for="inputEmail" class="col-sm-4 control-label">Tu eMail</label>
-					  <input type="email" class="form-control" id="inputEmail" name="inputEmail" placeholder="eMail">
+					  <input type="email" class="form-control" id="Email" name="inputEmail" placeholder="eMail">
 				</div>
 				<div class="form-group">
 				   <label for="inputPassword3" class="col-sm-4 control-label">Mensaje</label>
