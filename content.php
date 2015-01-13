@@ -12,7 +12,6 @@
  echo '</div>
        <aside class="col-md-4">
        <div class="well well-sm">
-       
        <div class="pull-left">
         <a class="media-left" href="#">
             <img src="themes/'.$theme.'/images/logovaslibre2.svg" class="img-responsive vaslibre" alt="VaSLibre">
@@ -30,42 +29,52 @@
                 <li><a href="backend.xml" class="darken" data-toggle="tooltip" data-placement="bottom" title="Agreganos a tu Lector"><img src="themes/'.$theme.'/images/64/25_rss.png" class="img-responsive img-rounded" alt="RSS|XML"></a></li>     
             </ul>           
          <hr>
-         <h3>Envía tu Feed</h3>
-         <div id="myWatch"></div>
-        <form enctype="application/x-www-form-urlencoded" action="javascript:void(0);" role="form" method="post" name="form1" id="form1" onsubmit="return GetUser(); return document.MM_returnValue">
-            <div class="form-group">
-                <label for="inputEmail">Tu eMail</label>
-                <input type="email" class="form-control" id="inputEmail" name="inputEmail" placeholder="eMail">
-            </div>
-            <div class="form-group">
-                <label for="inputPassword3">URL Feed</label>
-                <input type="text" class="form-control" id="url" placeholder="http:// | https:// Url Feed">
-            </div>
-            <div class="form-group">
-                <button type="submit" class="btn btn-success">Agregar</button>
-            </div>
-        </form>         
-         <hr>      
-         <h3>Contactános</h3>
-         <div id="myWatchContac"></div>
-            <form enctype="application/x-www-form-urlencoded" action="javascript:void(0);" role="form" method="post" name="form2" id="form2" onsubmit="return GetUserContac(); return document.MM_returnValue">
-                <div class="form-group">
-                    <label for="inputEmail">Tu eMail</label>
-                    <input type="email" class="form-control" id="Email" name="inputEmail" placeholder="eMail">
-                </div>
-                <div class="form-group">
-                    <label for="inputPassword3">Mensaje</label>
-                    <textarea class="form-control" id="mensaje" placeholder="Tu Mensaje"></textarea>
-                </div>
-                <div class="form-group">
-                    <button type="submit" class="btn btn-success" id="enviar">Enviar</button>
-                </div>
-            </form>         
+         <div id="envio_feed">
+ 	        <h3>Envía tu Feed</h3>
+	        <div id="myWatch"></div>
+		    <form enctype="application/x-www-form-urlencoded" action="javascript:void(0);" role="form" method="post" name="form1" id="form1" onsubmit="return GetUser(); return document.MM_returnValue">
+		        <div class="form-group">
+		            <label for="inputEmail">Tu eMail</label>
+		            <input type="email" class="form-control" id="inputEmail" name="inputEmail" placeholder="eMail">
+		        </div>
+		        <div class="form-group">
+		            <label for="inputPassword3">URL Feed</label>
+		            <input type="text" class="form-control" id="url" placeholder="http:// | https:// Url Feed">
+		        </div>
+		        <div class="form-group">
+		            <button type="submit" class="btn btn-success">Agregar</button>
+		        </div>
+		    </form>         
+		     <hr>      
+		     <h3>Contáctanos</h3>
+		     <div id="myWatchContac"></div>
+		        <form enctype="application/x-www-form-urlencoded" action="javascript:void(0);" role="form" method="post" name="form2" id="form2" onsubmit="return GetUserContac(); return document.MM_returnValue">
+		            <div class="form-group">
+		                <label for="inputEmail">Tu eMail</label>
+		                <input type="email" class="form-control" id="Email" name="inputEmail" placeholder="eMail">
+		            </div>
+		            <div class="form-group">
+		                <label for="inputPassword3">Mensaje</label>
+		                <textarea class="form-control" id="mensaje" placeholder="Tu Mensaje"></textarea>
+		            </div>
+		            <div class="form-group">
+		                <button type="submit" class="btn btn-success" id="enviar">Enviar</button>
+		            </div>
+		        </form>   
+         </div>      
          <hr>
-         <h3>Nube de tags</h3>';
-         NUBE_TAGS($tags);
-         echo '
+         <h3>Publicidad</h3>
+         <div id="publicidad">';
+            PUBLICIDAD($publicidad);  
+    echo '
          </div>
-       </aside>
+         <hr>
+         <div id="nube">  
+          <h3>Nube de tags</h3>';
+          NUBE_TAGS($tags);
+          echo '
+         </div>
+        </div>
+      </aside>
        <hr>';                                    
 ?> 
