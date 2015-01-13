@@ -21,10 +21,3 @@ echo '<div class="row">
        </div>
      </div>';
 ?>                     
-<<<<<<< HEAD
- del Planeta">github.com</a>                    
-                </div>
-            </div>';
-?>                          
-=======
->>>>>>> 8d8865a5fa99c814b61d6409af3005f6dfd6e537

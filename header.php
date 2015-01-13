@@ -17,15 +17,4 @@
                     </div>
                 </div>   
     ';
-?>con-bar"></span>
-		                <span class="icon-bar"></span>
-		                <span class="icon-bar"></span>
-		            </button>
-		            <a class="navbar-brand darken" href="index.php" title="'.$nombre_sitio.'">
-		          <img src="themes/'.$theme.'/images/logo.png" class="img-responsive logo" alt="Logo" height="95" width="95" />
-		            </a>
-		        </div>
-		     </div>
-		  </nav>
-    </div>';
 ?>
