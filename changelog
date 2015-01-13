@@ -1,21 +1,85 @@
-commit ab4d5445cd23e1f8ad47c3f39b11bc1a5b22ad46
+commit a9a42b900c64324bcdab24c21e31f116be133e3c
 Author: abr4xas <me@abr4xas.org>
-Date:   Mon Jan 12 09:31:25 2015 -0430
+Date:   Mon Jan 12 21:47:01 2015 -0430
 
-    Actualizado
+    Cambios menores
 
-commit 796eff0ab3f73b9a60e56c5df7c357ff48230060
+commit f482be5db9c40f96c01ccc76838846434f0f84d6
 Author: abr4xas <me@abr4xas.org>
-Date:   Mon Jan 12 01:19:38 2015 -0430
+Date:   Mon Jan 12 21:14:25 2015 -0430
 
-    Primer Aporte
+    Cambios menores
 
-commit cc980edf7c724355f812f85977a8b0952b3af34c
-Author: ángel <abr4xas@users.noreply.github.com>
-Date:   Mon Jan 12 01:16:33 2015 -0430
+commit 411854ce90f337d6760243ac13092096d3301394
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jan 12 21:09:24 2015 -0430
 
-    Initial commit
-an 12 09:36:25 2015 -0430
+    Cambios menores
+
+commit f8d1912981f9a3981e6782c64fc859100d55df39
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jan 12 21:07:30 2015 -0430
+
+    Cambios menores
+
+commit b07c381377ee694e02cf4839c38631f40ebb4723
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jan 12 21:05:14 2015 -0430
+
+    Cambios menores
+
+commit f9d5486274594938485998282f578b448c477b8d
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jan 12 20:45:11 2015 -0430
+
+    Agregando plantilla
+
+commit 303d7651abe3ed4bd3f49ddb642462d1d099dca7
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jan 12 20:40:40 2015 -0430
+
+    Agregando plantilla
+
+commit b0329ebc229a4fe3db8816d5468a7815742a46a8
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jan 12 18:51:53 2015 -0430
+
+    Actualizando plantilla
+
+commit 466c5e73aba59cfd86bd2091b24ade8f64061a78
+Merge: b08f918 8d8865a
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jan 12 16:48:06 2015 -0430
+
+    Actualizando plantilla
+
+commit b08f9183e5375ab27b3ae8896f9c4ce223b798a8
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jan 12 16:47:39 2015 -0430
+
+    Actualizando plantilla
+
+commit 8d8865a5fa99c814b61d6409af3005f6dfd6e537
+Author: xombra <xombra.com@gmail.com>
+Date:   Mon Jan 12 16:07:54 2015 -0430
+
+    * changelog
+
+commit c297abce244245946996717b94102bb90177513d
+Author: xombra <xombra.com@gmail.com>
+Date:   Mon Jan 12 16:07:30 2015 -0430
+
+    * Cambios menores
+
+commit 13c1f46c8896a9efa688fd364d33474513811d38
+Author: xombra <xombra.com@gmail.com>
+Date:   Mon Jan 12 13:14:10 2015 -0430
+
+    * Cambios menores
+
+commit c1a36c2936fa2eba6806c49f4c4047edf2b287ee
+Author: abr4xas <me@abr4xas.org>
+Date:   Mon Jan 12 09:36:25 2015 -0430
 
     Actualizado
 
