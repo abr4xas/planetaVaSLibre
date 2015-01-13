@@ -12,6 +12,7 @@
                         <div class="col-lg-12">
                             <div class="page-header">
                               <img src="themes/'.$theme.'/images/planeta-vaslibre.svg" class="img-responsive logo" alt="VaSLibre">
+                              <br />
                             </div>
                         </div>
                     </div>
