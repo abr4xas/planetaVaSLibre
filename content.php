@@ -36,6 +36,7 @@
 		        <div class="form-group">
 		            <label for="inputEmail">Tu eMail</label>
 		            <input type="email" class="form-control" id="inputEmail" name="inputEmail" placeholder="eMail">
+                    <input type="hidden" name="auth_token" value="'.CREAR_TOKEN('VaS').'" />
 		        </div>
 		        <div class="form-group">
 		            <label for="inputPassword3">URL Feed</label>
@@ -59,6 +60,7 @@
 		            </div>
 		            <div class="form-group">
 		                <button type="submit" class="btn btn-success" id="enviar">Enviar</button>
+                        <input type="hidden" name="auth_token" value="'.CREAR_TOKEN('VaS').'" />
 		            </div>
 		        </form>   
          </div>      
