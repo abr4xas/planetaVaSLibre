@@ -58,7 +58,7 @@
                     <textarea class="form-control" id="mensaje" placeholder="Tu Mensaje"></textarea>
                 </div>
                 <div class="form-group">
-                    <button type="submit" class="btn btn-success">Enviar</button>
+                    <button type="submit" class="btn btn-success" id="enviar">Enviar</button>
                 </div>
             </form>         
          <hr>
