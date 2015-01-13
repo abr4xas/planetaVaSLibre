@@ -1,3 +1,16 @@
+commit 35131ae7f9a519ac59f78a279c817d323b1956b6 (HEAD, origin/master, origin/HEAD, master)
+Author: xombra <xombra.com@gmail.com>
+Date:   Tue Jan 13 11:54:49 2015 -0430
+
+    * Eliminacions imagenes innecesarias
+    * paso de parametro del js. al default
+
+commit 8484a37b69e2553a07431f1d90d7852c44c1c82b
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Jan 13 10:35:51 2015 -0430
+
+    Cambios menores
+
 commit a9521aa129b9bcf5b17f966a317d2333421e2d18
 Author: abr4xas <me@abr4xas.org>
 Date:   Tue Jan 13 10:35:38 2015 -0430
