@@ -1,141 +1,21 @@
-@import url('//fonts.googleapis.com/css?subset=latin,cyrillic-ext,latin-ext,cyrillic&family=Open+Sans+Condensed:300|Open+Sans:400,600,400italic,600italic|Merriweather:400,300,300italic,400italic,700,700italic|Roboto+Slab:400,300');
-@import url("//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
-body 
-{
-background: #33a031; /* Old browsers */
-background: -moz-linear-gradient(top,  #33a031 0%, #082604 60%, #1b2b21 98%); /* FF3.6+ */
-background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#33a031), color-stop(60%,#082604), color-stop(98%,#1b2b21)); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(top,  #33a031 0%,#082604 60%,#1b2b21 98%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(top,  #33a031 0%,#082604 60%,#1b2b21 98%); /* Opera 11.10+ */
-background: -ms-linear-gradient(top,  #33a031 0%,#082604 60%,#1b2b21 98%); /* IE10+ */
-background: linear-gradient(to bottom,  #33a031 0%,#082604 60%,#1b2b21 98%); /* W3C */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#33a031', endColorstr='#1b2b21',GradientType=0 ); /* IE6-9 */
-
-	    color: #1F1F21;
-	    font-size: 14px;
-	    font-weight: 400;
-	    line-height: 1.6em;
-	    margin: 0px;
-	    padding-top: 50px;
-}
-body * 
-{
-	max-height: 1000000em
-}
-a {
-    color: #4cd964;
-    text-decoration: none;
-}
-a:hover{
-    color: #0bd318;
-    text-decoration: underline;
-}
-.well 
-{
-	    background-color: #fff;
-	    border: 1px solid #fff;
-	    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0) inset;
-
-}
-.page-header {
-    padding-bottom: 0px;
-    margin: 58px;
-    border-bottom: 0px none;
-}
-.logo {
-    width: 400px;
-    height: 200px;
-    margin: -96px auto;
-}
-.vaslibre
-{
-	    width: 120px;
-	    height: 120px;
-
-}
-.img-center{
-    margin: 0px auto;
-}
-	h1
-{
-    font-size: 48px;
-	margin-bottom:60px;
-	font-family:'Play',sans-serif;
-	font-weight:900;
-	font-style:normal;
-	color:#27ae60;
-}
-	hr 
-{
-	 border-top: 1px solid #E5E5E5;
-	 border-bottom: 1px solid #FFF
-}
-	h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, p,
-{
-	font-family: "Merriweather", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif;color: #4cd964;
-}
-
-.feed .feed-item 
-{
-	    background-color: #FFF;
-	    border-radius: 5px;
-	    margin-bottom: 20px
-}
-.feed .feed-item .feed-content 
-{
-	    padding: 40px;
-	     border-radius:10px 10px 10px 10px;
-	    -moz-border-radius:10px 10px 10px 10px;
-	    -webkit-border-radius:10px 10px 10px 10px;
-
-}
-	a.darken img 
-{
-	    display: block;
-	    -webkit-transition: all 0.5s linear;
-	       -moz-transition: all 0.5s linear;
-	        -ms-transition: all 0.5s linear;
-	         -o-transition: all 0.5s linear;
-	            transition: all 0.5s linear
-}
-	a.darken:hover img 
-{
-	opacity: 0.7
-}
-	footer 
-{
-	 margin: 50px 0
-}
-.vcard
-{
-	display:none
-}
-.contcookies
-{
-	position:fixed;
-	bottom:0;
-	width:100%;
-	margin:0;
-	padding:20px;
-	background:rgba(100,100,100,0.85);
-	text-align:center;
-	box-shadow:0 -2px 2px #aaa;
-	border-top:1px solid #888;
-	color:#333
-}
-.contcookies a
-{
-	text-decoration:none;
-	color:#dd6!important
-}
-.contcookies a.cookiesaceptar
-{
-	padding:4px;
-	font-size:90%;
-	border:1px solid #ccc;
-	border-radius:3px;
-	background:#ddd;
-	color:#294!important;
-	font-weight:bold;
-	text-shadow:none
-}
+@import "//fonts.googleapis.com/css?subset=latin,cyrillic-ext,latin-ext,cyrillic&family=Open+Sans+Condensed:300|Open+Sans:400,600,400italic,600italic|Merriweather:400,300,300italic,400italic,700,700italic|Roboto+Slab:400,300";@import "//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css";body{color:#1F1F21;font-size:14px;font-weight:400;line-height:1.6em;margin:0;padding-top:50px;background-color:#F5F5F5;background-image:url(../images/body.jpg);background-repeat:repeat-x;background-position:0 0}
+body *{max-height:1000000em}
+a{color:#4cd964;text-decoration:none}
+a:hover{color:#0bd318;text-decoration:underline}
+.well{background-color:#fff;border:1px solid #fff;box-shadow:0 0 0 rgba(0,0,0,0) inset}
+.page-header{padding-bottom:0;margin:58px;border-bottom:0 none}
+.logo{width:400px;height:200px;margin:-96px auto}
+.vaslibre{width:150px;height:50px}
+.img-center{margin:0 auto}
+h1{font-size:48px;margin-bottom:60px;font-family:'Play',sans-serif;font-weight:900;font-style:normal;color:#27ae60}
+hr{border-top:1px solid #E5E5E5;border-bottom:1px solid #FFF}
+h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,p,{font-family:"Merriweather","Open Sans","Helvetica Neue",Helvetica,Arial,"Nimbus L",sans-serif;color:#4cd964}
+.feed .feed-item{background-color:#FFF;border-radius:5px;margin-bottom:20px}
+.feed .feed-item .feed-content{padding:40px;border-radius:10px 10px 10px 10px;-moz-border-radius:10px;-webkit-border-radius:10px 10px 10px 10px}
+a.darken img{display:block;-webkit-transition:all .5s linear;-moz-transition:all .5s linear;-ms-transition:all .5s linear;-o-transition:all .5s linear;transition:all .5s linear}
+a.darken:hover img{opacity:.7}
+footer{margin:50px 0}
+.vcard{display:none}
+.contcookies{position:fixed;bottom:0;width:100%;margin:0;padding:20px;background:rgba(100,100,100,0.85);text-align:center;box-shadow:0 -2px 2px #aaa;border-top:1px solid #888;color:#333}
+.contcookies a{text-decoration:none;color:#dd6!important}
+.contcookies a.cookiesaceptar{padding:4px;font-size:90%;border:1px solid #ccc;border-radius:3px;background:#ddd;color:#294!important;font-weight:700;text-shadow:none}

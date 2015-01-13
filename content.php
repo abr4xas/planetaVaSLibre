@@ -14,7 +14,7 @@
        <div class="well well-sm">
        <div class="pull-left">
         <a class="media-left" href="#">
-            <img src="themes/'.$theme.'/images/logovaslibre2.svg" class="img-responsive vaslibre" alt="VaSLibre">
+            <img src="themes/'.$theme.'/images/logovaslibre2.png" class="img-responsive vaslibre" alt="VaSLibre">
         </a>
         </div>
             <h3>Planeta VaSLibre</h3>
