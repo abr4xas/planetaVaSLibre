@@ -1,4 +1,22 @@
-commit 35131ae7f9a519ac59f78a279c817d323b1956b6 (HEAD, origin/master, origin/HEAD, master)
+commit 653e1d4cbe38fd22c4cbaa41fb92794dd7a82c7c (HEAD, origin/master, origin/HEAD, master)
+Author: xombra <xombra.com@gmail.com>
+Date:   Tue Jan 13 14:15:51 2015 -0430
+
+    * Inclusion de Token
+
+commit f0112640bcfde58c2d26249c7a2e45f4e730bafd
+Author: xombra <xombra.com@gmail.com>
+Date:   Tue Jan 13 13:53:49 2015 -0430
+
+    * inclusion de publicidad
+
+commit 6479e6350a99166e8b2f7976b3f794c2e66ec4a1
+Author: xombra <xombra.com@gmail.com>
+Date:   Tue Jan 13 11:55:50 2015 -0430
+
+    * changelog
+
+commit 35131ae7f9a519ac59f78a279c817d323b1956b6
 Author: xombra <xombra.com@gmail.com>
 Date:   Tue Jan 13 11:54:49 2015 -0430
 
