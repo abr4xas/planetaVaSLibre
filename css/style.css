@@ -46,6 +46,9 @@ a:hover{
 	    height: 120px;
 
 }
+.img-center{
+    margin: 0px auto;
+}
 	h1
 {
     font-size: 48px;
