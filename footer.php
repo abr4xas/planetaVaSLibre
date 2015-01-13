@@ -8,7 +8,6 @@
     */
 
 echo '<div class="row">
-
        <div class="col-lg-12">
          <div class="pull-right"> Licencia de uso:<br />
            <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"  data-toggle="tooltip" data-placement="bottom" title="Bajo Licencia Creative Commons"><img alt="Licencia de Creative Commons" src="themes/'.$theme.'/images/80x15.png" /></a>
@@ -21,7 +20,7 @@ echo '<div class="row">
          C&oacute;digo fuente: <a href="https://github.com/Vaslibre/planeta" target="_blank" title="Código Fuente del Planeta">github.com</a>                    
        </div>
      </div>';
-?>                    
+?>                     
 <<<<<<< HEAD
  del Planeta">github.com</a>                    
                 </div>

@@ -6,13 +6,18 @@
     * License: GPLv2 or later
     * @version 0.1
     */
-echo'<div id="header">
-		<nav class="navbar navbar-inverse navbar-fixed-top barra_nav" role="navigation">
-		    <div class="container">
-		        <div class="navbar-header">
-		          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-		                <span class="sr-only">Toggle navigation</span>
-		                <span class="icon-bar"></span>
+    echo'
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="page-header">
+                              <h1 class="text-center">'.$nombre_sitio.'</h1>
+                            </div>
+                        </div>
+                    </div>
+                </div>   
+    ';
+?>con-bar"></span>
 		                <span class="icon-bar"></span>
 		                <span class="icon-bar"></span>
 		            </button>
