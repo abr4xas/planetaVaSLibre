@@ -2,7 +2,7 @@
 @import url("//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
 body 
 {
-	    background: url("../images/bg.png") repeat-x scroll 0% 0% #F5F5F5;
+	    background: url("") repeat-x scroll 0% 0% #F5F5F5;
 	    color: #1F1F21;
 	    font-size: 14px;
 	    font-weight: 400;
@@ -36,6 +36,11 @@ a:hover{
 	    margin: 0;
 	    border-bottom: 0;
 
+}
+.logo {
+    width: 400px;
+    height: 200px;
+    margin: -24px auto;
 }
 .vaslibre
 {

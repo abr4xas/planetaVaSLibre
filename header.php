@@ -11,7 +11,7 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="page-header">
-                              <h1 class="text-center">'.$nombre_sitio.'</h1>
+                              <img src="themes/'.$theme.'/images/planeta-vaslibre.svg" class="img-responsive logo" alt="VaSLibre">
                             </div>
                         </div>
                     </div>
