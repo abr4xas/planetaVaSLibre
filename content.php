@@ -66,5 +66,6 @@
          NUBE_TAGS($tags);
          echo '
          </div>
-       </aside>';                                    
+       </aside>
+       <hr>';                                    
 ?> 

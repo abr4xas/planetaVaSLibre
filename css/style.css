@@ -1,68 +1,142 @@
 @import url('//fonts.googleapis.com/css?subset=latin,cyrillic-ext,latin-ext,cyrillic&family=Open+Sans+Condensed:300|Open+Sans:400,600,400italic,600italic|Merriweather:400,300,300italic,400italic,700,700italic|Roboto+Slab:400,300');
 @import url("//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css");
-body {
-    background: url("../images/bg.png") repeat-x scroll 0% 0% #F5F5F5;
-    color: #1F1F21;
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 1.6em;
-    margin: 0px;
-    padding-top: 50px;
+body 
+{
+	    background: url("../images/bg.png") repeat-x scroll 0% 0% #F5F5F5;
+	    color: #1F1F21;
+	    font-size: 14px;
+	    font-weight: 400;
+	    line-height: 1.6em;
+	    margin: 0px;
+	    padding-top: 50px;
+
 }
-body * {max-height: 1000000em}
-.well {
-    background-color: #fff;
-    border: 1px solid #fff;
-    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0) inset;
+body * 
+{
+	max-height: 1000000em
 }
-.page-header {
-    padding-bottom: 0;
-    margin: 0;
-    border-bottom: 0;
+.well 
+{
+	    background-color: #fff;
+	    border: 1px solid #fff;
+	    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0) inset;
+
 }
-.vaslibre{
-width: 120px;
-    height: 120px;
+.page-header 
+{
+	    padding-bottom: 0;
+	    margin: 0;
+	    border-bottom: 0;
+
 }
-h1{font-size:45px;margin-bottom:60px;font-family:'Play',sans-serif;font-weight:900;font-style:normal;color:#fff;text-shadow:1px 2px 4px #333}
-hr { border-top: 1px solid #E5E5E5; border-bottom: 1px solid #FFF}
-h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, p,{font-family: "Merriweather", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif}
-.logo{
-    width: 48px;
-    height: 48px}
-.navbar { border: 0}
-.navbar-inverse .navbar-nav > li > a {
-    color: #F7F7F7}
-.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-    color: #1F1F21;
-    background-color: transparent}
-.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
-    border-color:transparent 
+.vaslibre
+{
+	    width: 120px;
+	    height: 120px;
+
 }
-.feed .feed-item {
-    background-color: #FFF;
-    border-radius: 5px;
-    margin-bottom: 20px}
-.feed .feed-item .feed-content {
-    padding: 40px; 
-    border-radius:10px 10px 10px 10px;
-    -moz-border-radius:10px 10px 10px 10px;
-    -webkit-border-radius:10px 10px 10px 10px;
+	h1
+{
+	font-size:45px;
+	margin-bottom:60px;
+	font-family:'Play',sans-serif;
+	font-weight:900;
+	font-style:normal;
+	color:#fff;
+	text-shadow:1px 2px 4px #333
 }
-a.darken img {
-    display: block;
-    -webkit-transition: all 0.5s linear;
-       -moz-transition: all 0.5s linear;
-        -ms-transition: all 0.5s linear;
-         -o-transition: all 0.5s linear;
-            transition: all 0.5s linear}
-a.darken:hover img {opacity: 0.7;}
-footer { margin: 50px 0}
-.vcard{display:none}
-.contcookies{position:fixed;bottom:0;width:100%;margin:0;padding:20px;background:rgba(100,100,100,0.85);text-align:center;box-shadow:0 -2px 2px #aaa;border-top:1px solid #888;color:#333}
-.contcookies a{text-decoration:none;color:#dd6!important}
-.contcookies a.cookiesaceptar{padding:4px;font-size:90%;border:1px solid #ccc;border-radius:3px;background:#ddd;color:#294!important;font-weight:bold;text-shadow:none}
-.tag_nube1{font-size:1.8em;color:#202020;font-weight:600;letter-spacing:2px;margin-bottom:12px;font-weight:normal;line-height:1em;margin-top:5px;}
-.tag_nube2{font-size:1.5em;color:#757575;font-weight:500;letter-spacing:1px;margin-bottom:12px;font-weight:normal;margin-top:5px;line-height:1em;}
-.tag_nube3{font-size:1.1em;color:#FFCC00;font-weight:400;letter-spacing:1px;margin-top:5px;margin-bottom:12px;font-weight:normal;line-height:1.0em;}
-.tag_nube4{font-size:1.0em;color:#FF6600;font-weight:300;margin-top:5px;letter-spacing:1px;margin-bottom:12px;font-weight:normal;line-height:1.0em;}
+	hr 
+{
+	 border-top: 1px solid #E5E5E5;
+	 border-bottom: 1px solid #FFF
+}
+	h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, p,
+{
+	font-family: "Merriweather", "Open Sans", "Helvetica Neue", Helvetica, Arial, "Nimbus L", sans-serif
+}
+.logo
+{
+	    width: 48px;
+	    height: 48px
+}
+.navbar 
+{
+	 border: 0
+}
+.navbar-inverse .navbar-nav > li > a 
+{
+	    color: #F7F7F7
+}
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus 
+{
+	    color: #1F1F21;
+	    background-color: transparent
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form 
+{
+	    border-color:transparent 
+}
+.feed .feed-item 
+{
+	    background-color: #FFF;
+	    border-radius: 5px;
+	    margin-bottom: 20px
+}
+.feed .feed-item .feed-content 
+{
+	    padding: 40px;
+	     border-radius:10px 10px 10px 10px;
+	    -moz-border-radius:10px 10px 10px 10px;
+	    -webkit-border-radius:10px 10px 10px 10px;
+
+}
+	a.darken img 
+{
+	    display: block;
+	    -webkit-transition: all 0.5s linear;
+	       -moz-transition: all 0.5s linear;
+	        -ms-transition: all 0.5s linear;
+	         -o-transition: all 0.5s linear;
+	            transition: all 0.5s linear
+}
+	a.darken:hover img 
+{
+	opacity: 0.7
+}
+	footer 
+{
+	 margin: 50px 0
+}
+.vcard
+{
+	display:none
+}
+.contcookies
+{
+	position:fixed;
+	bottom:0;
+	width:100%;
+	margin:0;
+	padding:20px;
+	background:rgba(100,100,100,0.85);
+	text-align:center;
+	box-shadow:0 -2px 2px #aaa;
+	border-top:1px solid #888;
+	color:#333
+}
+.contcookies a
+{
+	text-decoration:none;
+	color:#dd6!important
+}
+.contcookies a.cookiesaceptar
+{
+	padding:4px;
+	font-size:90%;
+	border:1px solid #ccc;
+	border-radius:3px;
+	background:#ddd;
+	color:#294!important;
+	font-weight:bold;
+	text-shadow:none
+}
