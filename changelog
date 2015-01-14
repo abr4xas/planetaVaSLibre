@@ -1,4 +1,16 @@
-commit d7fc51dbc0e4dd4f280f1d33a5e428b28603d23e (HEAD, origin/master, origin/HEAD, master)
+commit 11dadb63c8952dd6bfde22c60aef67bd1c644447 (HEAD, origin/master, origin/HEAD, master)
+Author: xombra <xombra.com@gmail.com>
+Date:   Wed Jan 14 12:13:13 2015 -0430
+
+    * Inclusion de suscripciones
+
+commit 0e668336ec4db0db5784aef49db503ccafafeb94
+Author: xombra <xombra.com@gmail.com>
+Date:   Wed Jan 14 09:31:37 2015 -0430
+
+    * changelog
+
+commit d7fc51dbc0e4dd4f280f1d33a5e428b28603d23e
 Author: xombra <xombra.com@gmail.com>
 Date:   Wed Jan 14 09:31:09 2015 -0430
 
