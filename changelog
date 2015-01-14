@@ -1,4 +1,22 @@
-commit 29c5254b0f99bfbb6ddedd18f0672da621b642aa (HEAD, origin/master, origin/HEAD, master)
+commit d7fc51dbc0e4dd4f280f1d33a5e428b28603d23e (HEAD, origin/master, origin/HEAD, master)
+Author: xombra <xombra.com@gmail.com>
+Date:   Wed Jan 14 09:31:09 2015 -0430
+
+    * Optimizacion de imagen
+
+commit 42658248920ef27a78c76233627d2f2f72ac8814
+Author: abr4xas <me@abr4xas.org>
+Date:   Tue Jan 13 18:45:17 2015 -0430
+
+    Actualizando
+
+commit b95dc1e542ebf91dbd671f615eb0f7edc9b10af9
+Author: xombra <xombra.com@gmail.com>
+Date:   Tue Jan 13 17:16:36 2015 -0430
+
+    * changelog
+
+commit 29c5254b0f99bfbb6ddedd18f0672da621b642aa
 Author: xombra <xombra.com@gmail.com>
 Date:   Tue Jan 13 17:16:05 2015 -0430
 
