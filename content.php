@@ -71,11 +71,18 @@
     echo '
          </div>
          <hr>
+          <h3>Suscripciones</h3>
+         <div id="suscripciones">';
+          SUBSCRIPCIONES($feeds);
+    echo'
+          </div>  
+         <hr>  
          <div id="nube">  
           <h3>Nube de tags</h3>';
           NUBE_TAGS($tags);
           echo '
          </div>
+          
         </div>
       </aside>
        <hr>';                                    
