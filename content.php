@@ -8,7 +8,7 @@
     */
   echo'
        <div class="col-md-8">';
-            $tags = RSS_MOSTRAR($url,$imagen,$leer_cant_feed,$largo_lectura,$feeds); 
+            $tags = RSS_MOSTRAR($url,$imagen,$leer_cant_feed,$largo_lectura,$feeds,$theme); 
  echo '</div>
        <aside class="col-md-4">
        <div class="well well-sm">
@@ -68,6 +68,11 @@
     echo '
          </div>
          <hr>
+         <h3>Suscripciones</h3>';
+            SUBSCRIPCIONES($feeds);  
+    echo '
+
+         <hr>         
          <div id="nube">  
           <h3>Nube de tags</h3>';
           NUBE_TAGS($tags);
