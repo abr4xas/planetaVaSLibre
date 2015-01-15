@@ -21,3 +21,5 @@ footer{margin:50px 0}
 .contcookies a.cookiesaceptar{padding:4px;font-size:90%;border:1px solid #ccc;border-radius:3px;background:#ddd;color:#294!important;font-weight:700;text-shadow:none}
 .calendar{width:16px;height:16px}
 .abre { margin-top:15px }
+.avatar{width:95px; height:95px;margin-right:10px;}
+.ocultar {visibility:hidden;font-size:0px;margin-bottom:0px;}
