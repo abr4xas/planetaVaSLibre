@@ -66,8 +66,9 @@
             PUBLICIDAD($publicidad);  
     echo '
          </div>
-         <hr>
-         <h3>Suscripciones</h3>';
+         <hr>';
+        RSS_IMG();
+echo '         <h3>Suscripciones</h3>';
             SUBSCRIPCIONES($feeds);  
     echo '
 
