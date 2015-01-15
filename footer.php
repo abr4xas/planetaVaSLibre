@@ -15,6 +15,7 @@ echo '<div class="row">
          <address>
             <strong>Planeta de Grupo de Usuarios de VaSlibre</strong><br />
             Valencia - Carabobo - Venezuela<br />
+            <a href="index.php?d=politicas" target="_self" title="Leer politicas de uso">Pol&iacute;ticas de uso</a>
          </address>
          &copy; 2014 - '.date("Y",time()).'  Dise&ntilde;o & Programaci&oacute;n: [ <a href="http://viserproject.com" target="_blank" title="Visitar ViserProject">ViSerProject</a> ]<br />
          C&oacute;digo fuente: <a href="https://github.com/Vaslibre/planeta" target="_blank" title="Código Fuente del Planeta">github.com</a>                    

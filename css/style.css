@@ -19,4 +19,4 @@ footer{margin:50px 0}
 .contcookies{position:fixed;bottom:0;width:100%;margin:0;padding:20px;background:rgba(100,100,100,0.85);text-align:center;box-shadow:0 -2px 2px #aaa;border-top:1px solid #888;color:#333}
 .contcookies a{text-decoration:none;color:#dd6!important}
 .contcookies a.cookiesaceptar{padding:4px;font-size:90%;border:1px solid #ccc;border-radius:3px;background:#ddd;color:#294!important;font-weight:700;text-shadow:none}
-.calendar {width: 16px;height: 16px}
+.calendar{width:16px;height:16px}

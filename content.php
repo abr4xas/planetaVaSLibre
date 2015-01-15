@@ -87,7 +87,7 @@
             </li> 
             <li>
                 <a href="http://jquery.com" target="_blank" class="darken" data-toggle="tooltip" data-placement="bottom" title="Powered by Jquery">
-                <img src="themes/'.$theme.'/images/64/jquery.gif" class="img-responsive" alt="Powered by Jquery">
+                <img src="themes/'.$theme.'/images/64/jquery.png" class="img-responsive" alt="Powered by Jquery">
                 </a>
             </li>
             <li>
