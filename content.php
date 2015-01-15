@@ -13,7 +13,6 @@
        <aside class="col-md-4">
        <div class="well well-sm">
             <img src="themes/'.$theme.'/images/planeta-vaslibre.png" class="img-responsive img-center logo" alt="VaSLibre">
-            <h3>Planeta VaSLibre</h3>
             <p>'.$descripcion.'</p>
                <hr>
          <h3>Redes Sociales</h3>
@@ -22,7 +21,8 @@
                 <li><a href="https://facebook.com/groups/'.$facebook.'" class="darken" data-toggle="tooltip" data-placement="bottom" title="Danos un Like"><img src="themes/'.$theme.'/images/64/02_facebook.png" class="img-responsive img-rounded" alt="Facebokk"></a></li>     
                 <li><a href="https://plus.google.com/'.$glus.'" class="darken" data-toggle="tooltip" data-placement="bottom" title="Siguenos en G+"><img src="themes/'.$theme.'/images/64/14_google+.png" class="img-responsive img-rounded" alt="G+"></a></li>
                 <li><a href="http://'.$principal.'" class="darken" data-toggle="tooltip" data-placement="bottom" title="Visita nuestro Blog"><img src="themes/'.$theme.'/images/64/21_blogger.png" class="img-responsive img-rounded" alt="Blog"></a></li>   
-                <li><a href="backend.xml" class="darken" data-toggle="tooltip" data-placement="bottom" title="Agreganos a tu Lector"><img src="themes/'.$theme.'/images/64/25_rss.png" class="img-responsive img-rounded" alt="RSS|XML"></a></li>     
+                <li><a href="backend.xml" class="darken" data-toggle="tooltip" data-placement="bottom" title="Agreganos a tu Lector"><img src="themes/'.$theme.'/images/64/25_rss.png" class="img-responsive img-rounded" alt="RSS|XML"></a></li>    
+                <li><a href="'.$urlplanet.'opml.php" target="_parent" class="darken" data-toggle="tooltip" data-placement="bottom" title="Descarga Nuestro OPML"><img src="themes/'.$theme.'/images/64/26_opml.png" class="img-responsive img-rounded" alt="opml"></a></li>                  
             </ul>           
          <hr>
          <div id="envio_feed">
