@@ -77,6 +77,28 @@
           NUBE_TAGS($tags);
           echo '
          </div>
+         <hr>
+         <h3>Powered by:</h3>
+         <ul class="list-inline">
+            <li>
+                <a href="http://getbootstrap.com" target="_blank" class="darken" data-toggle="tooltip" data-placement="bottom" title="Powered by bootstrap">
+                <img src="themes/'.$theme.'/images/64/button_bootstrap.png" class="img-responsive" alt="Powered by bootstrap">
+                </a>
+            </li> 
+            <li>
+                <a href="http://jquery.com" target="_blank" class="darken" data-toggle="tooltip" data-placement="bottom" title="Powered by Jquery">
+                <img src="themes/'.$theme.'/images/64/jquery.gif" class="img-responsive" alt="Powered by Jquery">
+                </a>
+            </li>
+            <li>
+                <a href="http://php.net" target="_blank" class="darken" data-toggle="tooltip" data-placement="bottom" title="Powered by PHP">
+                <img src="themes/'.$theme.'/images/64/php_powered.png" class="img-responsive" alt="Powered by PHP">
+                </a>
+            </li>
+            <li>
+                <a href="http://validator.w3.org/feed/check.cgi?url=http%3A//planeta.vaslibre.org.ve/backend.xml" target="_blank" class="darken" data-toggle="tooltip" data-placement="bottom" title="Validate my RSS feed"><img src="themes/'.$theme.'/images/64/icon_rss.png" class="img-responsive" alt="[Valid RSS]" title="Validate my RSS feed" /></a>
+            </li>
+         </ul>
         </div>
       </aside>
        <hr>';                                    

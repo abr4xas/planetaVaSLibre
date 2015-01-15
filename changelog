@@ -1,4 +1,34 @@
-commit 11dadb63c8952dd6bfde22c60aef67bd1c644447 (HEAD, origin/master, origin/HEAD, master)
+commit f7f7d7ce5cfafa3465b40ed114569c0d3e9e54ab
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 11:55:41 2015 -0430
+
+    Actualizado enlace de descarga de OPML
+
+commit 6d5ec69cd8e8cd47b21f376bb7f1ccf95a0c1398
+Author: abr4xas <me@abr4xas.org>
+Date:   Thu Jan 15 11:33:12 2015 -0430
+
+    Actyalizando estilos
+
+commit 6140126f8536368ef9055835ad57891994db5422
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jan 14 21:48:39 2015 -0430
+
+    Actualizando estilos
+
+commit 25da9c4279a17e20075c0b5f66ebea5e70a76dbf
+Author: abr4xas <me@abr4xas.org>
+Date:   Wed Jan 14 14:57:36 2015 -0430
+
+    Actualizado img sidebar
+
+commit 07a614a9068c8a2f240b44e3e2b277e37a4adc26
+Author: xombra <xombra.com@gmail.com>
+Date:   Wed Jan 14 12:14:07 2015 -0430
+
+    * changelog
+
+commit 11dadb63c8952dd6bfde22c60aef67bd1c644447
 Author: xombra <xombra.com@gmail.com>
 Date:   Wed Jan 14 12:13:13 2015 -0430
 
