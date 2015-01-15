@@ -1,4 +1,4 @@
-@import "//fonts.googleapis.com/css?subset=latin,cyrillic-ext,latin-ext,cyrillic&family=Open+Sans+Condensed:300|Open+Sans:400,600,400italic,600italic|Merriweather:400,300,300italic,400italic,700,700italic|Roboto+Slab:400,300";body{color:#1F1F21;font-size:14px;font-weight:400;line-height:1.6em;margin:0;padding-top:50px;background-color:#F5F5F5;background-image:url(../images/body.jpg);background-repeat:repeat-x;background-position:0 0}
+@import "//fonts.googleapis.com/css?subset=latin,cyrillic-ext,latin-ext,cyrillic&family=Open+Sans+Condensed:300|Open+Sans:400,600,400italic,600italic|Merriweather:400,300,300italic,400italic,700,700italic|Roboto+Slab:400,300";body{color:#1F1F21;font-size:14px;font-weight:400;line-height:1.6em;margin:0;background-color:#F5F5F5;background-image:url(../images/body.jpg);background-repeat:repeat-x;background-position:0 0}
 body *{max-height:1000000em}
 a{color:#4cd964;text-decoration:none}
 a:hover{color:#0bd318;text-decoration:underline}

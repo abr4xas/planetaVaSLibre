@@ -7,15 +7,6 @@
     * @version 0.1
     */
     echo'
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12">
-                            <div class="page-header">
-                              <img src="themes/'.$theme.'/images/planeta-vaslibre.png" class="img-responsive logo" alt="VaSLibre">
-                              <br />
-                            </div>
-                        </div>
-                    </div>
-                </div>   
+
     ';
 ?>

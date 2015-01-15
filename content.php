@@ -12,8 +12,7 @@
  echo '</div>
        <aside class="col-md-4">
        <div class="well well-sm">
-
-            <img src="themes/'.$theme.'/images/logovaslibre2.png" class="img-responsive img-center vaslibre" alt="VaSLibre">
+            <img src="themes/'.$theme.'/images/planeta-vaslibre.png" class="img-responsive img-center logo" alt="VaSLibre">
             <h3>Planeta VaSLibre</h3>
             <p>'.$descripcion.'</p>
                <hr>
