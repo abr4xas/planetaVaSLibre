@@ -8,7 +8,7 @@
     */
   echo'
        <div class="col-md-8">';
-            $tags = RSS_MOSTRAR($url,$imagen,$leer_cant_feed,$largo_lectura,$feeds,$theme); 
+           $tags = RSS_MOSTRAR($url,$imagen,$leer_cant_feed,$largo_lectura,$feeds,$theme,$timenota); 
  echo '</div>
        <aside class="col-md-4">
        <div class="well well-sm">
